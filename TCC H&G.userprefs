@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Downloads\Prototipo 08-10\Assets\Scripts\spawnEnemy.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\CardController.cs" Line="96" Column="6" />
+      <File FileName="..\..\..\Downloads\Prototipo 08-10\Assets\Scripts\spawnEnemy.cs" Line="24" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
